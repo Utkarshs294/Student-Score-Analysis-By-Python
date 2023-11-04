@@ -9,11 +9,11 @@ The main objective of this project is to analyze the data on Student Scores and 
 Tools Used : jupyter notebook
 Procedure Followed :-
 
-Import required libraries
-Import the Csv format data
-Load data & Read the Data
-Removed unnecessary columns
-Data Cleaning
-Conducted Exploratory Data Analysis (EDA)
-Pie Chart Distribution
-Data Analysis
+- Import required libraries
+- Import the Csv format data
+- Load data & Read the Data
+- Removed unnecessary columns
+- Data Cleaning
+- Conducted Exploratory Data Analysis (EDA)
+- Pie Chart Distribution
+- Data Analysis
