@@ -16,5 +16,5 @@ Procedure Followed :-
 - Removed unnecessary columns
 - Data Cleaning
 - Conducted Exploratory Data Analysis (EDA)
-- Pie Chart Distribution
 - Data Analysis
+- Pie Chart Distribution
