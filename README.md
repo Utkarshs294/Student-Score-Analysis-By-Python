@@ -18,3 +18,10 @@ Procedure Followed :-
 - Conducted Exploratory Data Analysis (EDA)
 - Data Analysis
 - Pie Chart Distribution
+
+  Insights :-
+  
+- From the Gender Distribution chart we have analysed that the number of females in the data is more than the number of males.
+- The heatmap chart we have concluded that the education of parents have a good impact on their scores.
+- In the another heatmap those who practice sport regularly are good in their scores.
+- From the pie chart distribution The highest percentage of respondents falls into the Some College category at 23%, indicating that a significant portion of the Writing Score in college-level education.
