@@ -19,7 +19,7 @@ Procedure Followed :-
 - Data Analysis
 - Pie Chart Distribution
 
-  Insights :-
+Insights :-
   
 - From the Gender Distribution chart we have analysed that the number of females in the data is more than the number of males.
 - The heatmap chart we have concluded that the education of parents have a good impact on their scores.
