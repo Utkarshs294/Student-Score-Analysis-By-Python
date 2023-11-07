@@ -1,6 +1,6 @@
 # Student Score Analysis By Python
 
-In this project, I utilized the power of Python and various libraries such as Pandas, NumPy, Matplotlib, and Seaborn to conduct an analysis of Student Score based on their Performance.
+In this project, I utilized the power of Python and various libraries such as Pandas, NumPy, Matplotlib and Seaborn to conduct an analysis of Student Score based on their Performance.
 
 Objective :-
 
