@@ -6,7 +6,9 @@ Objective :-
 
 The main objective of this project is to analyze the data on Student Scores and provide valuable insights from it.
 
-- Tools Used : jupyter notebook
+Tools Used :-
+
+- jupyter notebook
   
 Procedure Followed :-
 
